@@ -1,0 +1,6 @@
+node_id,site_description,region,latitude,longitude,primary_target,unit,baseline_2025,target_reduction_pct,annual_capacity_kg,energy_source,ecoimpactscore,notes
+PHX-I10-01,I-10 East near downtown (2025 high PM2.5),Maricopa AZ,33.450,-112.050,PM2.5 + ozone,ug_m3,25-30,35,2000,solar electrostatic + trees,0.90,Traffic corridor; 2025 ranked 4th-worst ozone
+PHX-I17-02,I-17 North Deer Valley industrial,Maricopa AZ,33.680,-112.110,PM2.5,ug_m3,20-25,30,1500,solar filters + SRP trees,0.88,Industrial dust; community planting eligible
+PHX-LOOP202-03,Loop 202 Sky Harbor adjacency,Maricopa AZ,33.400,-111.950,CO2 + PM2.5,ppm + ug_m3,425 + 18,20,1000,solar MOF/DAC compatible,0.92,Airport emissions; Mesa DAC supply chain
+PHX-DTN-04,Downtown urban canyon grid,Maricopa AZ,33.448,-112.074,PM2.5,ug_m3,22-28,40,2500,solar electrostatic arrays,0.91,2025 New Year PM spike zone; recycled HDPE housings
+PHX-MESA-DAC-06,Mesa CarbonCapture facility zone,Maricopa AZ,33.420,-111.820,CO2,ppm,430,15,6000,solar grid-tied DAC modules,0.95,Manufacturing hub; 2 Mt capacity modules 2025-2026
